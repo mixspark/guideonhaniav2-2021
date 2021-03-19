@@ -1,0 +1,169 @@
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">GuideOnHania</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_oldTown">OldTown</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_sights">Sights</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_beaches">Beaches</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_hania">Hania</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_villages">Villages</string>
+    <string name="hania">Hania</string>
+    <string name="name">Name</string>
+    <string name="hania_name_one">"1866 Square"</string>
+    <string name="hania_name_two">"Navy Museum"</string>
+    <string name="hania_name_three">"Agora"</string>
+    <string name="hania_name_four">"Venizelos Tombs"</string>
+    <string name="village_name_one">"Platanias"</string>
+    <string name="village_name_two">"Paleohora"</string>
+    <string name="village_name_three">"Kastelli"</string>
+    <string name="village_name_four">"Kolimbari"</string>
+    <string name="sights_name_one">"Maleme"</string>
+    <string name="sights_name_two">"Samaria Gorge"</string>
+    <string name="sights_name_three">"Vouves"</string>
+    <string name="sights_name_four">"Gramvousa"</string>
+    <string name="odtown_name_one">"Arsenali"</string>
+    <string name="odtown_name_two">"Lighthouse"</string>
+    <string name="odtown_name_three">"Old Port"</string>
+    <string name="odtown_name_four">"Eleftherios Venizelos Square \"Sindrivani\""</string>\
+    <string name="beach_name_one">"Balos"</string>
+    <string name="beach_name_two">"Golden Sand"</string>
+    <string name="beach_name_three">"Falassarna"</string>
+    <string name="beach_name_four">"Elafonissi"</string>
+    <string name="description">Description</string>
+    <string name="hania_description_one">"A main square near the bus station gathers all the main roads in case a visitor wants to go to townhall, main market, hotels, the venetian harbor and with a lot shops around it"</string>
+    <string name="hania_description_two">"In the side of the venetian harbor is the navy museum with a lot of things from the WWII "</string>
+    <string name="hania_description_three">"The main market of the town with the best products from all over the area of Hania."</string>
+    <string name="hania_description_four">"One of the most popular spots offering a panoramic view of Chania are the Venizelos family tombs, a few kilometres east of the city, on the road to Akrotiri and the airport.\n" +
+                "Here, at the small church of Profitis Ilias (Prophet Elijah), are the tombs of the famous Greek statesman Eleftherios Venizelos and his son Sophocles. The tombs are set in a pretty park with an uninterrupted view of Hania."</string>
+    <string name="village_description_one">"The most touristic village in whole Hania territory, is the heart of the summer to visit to be to stay and spend yours holidays days and nights around the very nice area full with sandy beaches hotels restraunts tavernas cafe bars and shops to walk around and rexal with no stress"</string>
+    <string name="village_description_two">"Another famous touristic village with huge sandy beach in the southside of Hania."</string>
+    <string name="village_description_three">"A well known town the biggest in western Crete with its port and wild beauty together with the wild view of the mountains and the sea."</string>
+    <string name="village_description_four">"A small fisherman village in the other side of Hania gulf packed with famous tavernas and fresh fish"</string>
+    <string name="sights_description_one">"Maleme village is not only known for its tourism infrastructure in the summer but also for its history. Its history starts from the late Minoan Era and continues to the Second World War with the battle of Crete and the battle in Maleme airfield. Also, in Maleme you will see Orthodox Churches and many monuments concerning the WWII."</string>
+    <string name="sights_description_two">"The gorge of Samaria is situated in the National park of Samaria, in the White Mountains in West Crete. This majestuous gorge is considered one of the great attractions of Crete and many tourists want to visit it. But you must realise that it is a long (5 to 7 hours) walk on rough terrain so you will need to have a certain degree of fitness and walking experience in order to enjoy it."</string>
+    <string name="sights_description_three">"The Olive tree of Vouves (Greek: Ελιά Βουβών) is an olive tree in the village of Ano Vouves in the municipal unit of Kolymvari in Hania regional unit, Crete, Greece. Probably one of the oldest olive trees in the world, it still produces olives today.\n" +
+                "        The exact age of the tree cannot be determined"</string>
+    <string name="sights_description_four">"The island of Imeri Gramvousa is located 20km northwest of Kissamos, opposite the imposing Cape of Gramvousa and 2 miles northwest of the famous lagoon of Balos. Gramvousa is famous for its historical Venetian fortress, which still stands at a height of 137m, over the beach. The fort had also been used by pirates; one legend tells that there is a great treasure buried in the island. Also, the old wreck that was abandoned many years ago near the beach, has become an characteristic part of the landscape."</string>
+    <string name="oldtown_description_one">"The Arsenali Centre of Mediterranean Architecture, in short K.A.M, is an esteemed institution, administered by the Municipality of Hania. It is housed in a building called Megalo Neorio, alias Arsenali, which was constructed in 1585 by the Venetians and had been used as the school of the Christian community in the late 19th century."</string>
+    <string name="oldtown_description_two">"The lighthouse is located at the end of a long mole that protects the Venetian harbour from the sea. It is well worth walking all the way to the end of it as you get splendid views from the harbour."</string>
+    <string name="oldtown_description_three">"The old port of hania is a mix of buildings depends on the period of time through the centuries that was build by the Greeks,Venetians mostly and Ottoman era."</string>
+    <string name="oldtown_description_four">"At the end of Halidon street, the visitor finds Eleftherios Venizelos Square. The square used to be called \"Sindrivani\" (fountain) due to a small marble water fountain, decorated with lionheads and Venician coats of arms. This fountain can now be seen in the Archaeological Museum of Hania. The present square differs from the old one which was closed in by buildings. On the west side of the square was \"Porta Colombo\" and on the west \"Porta de Cap\". The north side of the square was destroyed by fire in 1932. The old City Hall is situated on the north-west corner. One of the towers of the Byzantine walls, converted into a house, stands on the opposite corner."</string>
+    <string name="beach_description_one">"The famous lagoon of Balos is located approximately 56km northwest of Hania and 17km northwest of Kissamos, formed between the Cape Gramvousa and the small Cape Tigani and below the range of Platiskinos. Balos is surely the mostly photographed beach in Crete, a very favorite subject of all tourist guides for Greece. It is no coincidence that Prince Charles and Princess Diana visited Balos with their private yacht many years ago."</string>
+    <string name="beach_description_two">"Only two minutes away from Hania by bus you can find a banch of sandy clean beaches that they are made by the small little gulfs packed with people, tavernas, cafes, beach bars, sunbeds, water sports nad of course a huge park for walking around the trees."</string>
+    <string name="beach_description_three">"Falassarna bay is one of the most famous beaches in Greece, which has been awarded as the best beach of Crete and voted as one of the 10 best beaches in Europe in the past. Falasarna spans a large area and consists actually of five consecutive beaches, with the two most central being the most favorite.The sand in Falassarna is whitish, making the water color tropical."</string>
+    <string name="beach_description_four">"Elafonisi is located 76km west of Hania and 5km south of Chrysoskalitisa Monastery, in the southwesternmost tip of Crete. Elafonisi is an oblong peninsula, which often breaks in two parts by water giving the impression of being a separate island. Elafonisi is a Natura 2000 protected area. The island is full of sand dunes with sea daffodils and jupiners. The endangered loggerhead sea turtle and several more rare animals and plants find shelter on the island; it is strictly forbidden to remove any plants, animals, shells and sand from the area."</string>
+    <string name="address">Address</string>
+    <string name="hania_address_one">-</string>
+    <string name="hania_address_two">"Ακτή Κουντουριώτη 56, Χανιά 731 31, Ελλάδα"</string>
+    <string name="hania_address_three">"Πλατεία Σοφοκλή Βενιζέλου, Χανιά, Κρήτη 731 32, Ελλάδα"</string>
+    <string name="hania_address_four">"Αγοραστάκη 4, Χανιά, Κρήτη 73133, Ελλάδα"</string>
+    <string name="village_address_one">"Platanias Hania Crete Greece"</string>
+    <string name="village_address_two">"Paleohora Hania Crete Greece"</string>
+    <string name="village_address_three">"Kissamos Hania Crete Greece"</string>
+    <string name="village_address_four">"Kolimbari Kissamos Hania Greece"</string>
+    <string name="sights_address_one">"Maleme Hania Crete Greece"</string>
+    <string name="sights_address_two">"Hania Crete Greece"</string>
+    <string name="sights_address_three">"Vouves Hania Crete Greece"</string>
+    <string name="sights_address_four">"Kissamos Hania Crete Greece"</string>
+    <string name="oldtown_address_one">"Ακτή Τομπάζη 30 73100 Hania, Greece"</string>
+    <string name="oldtown_address_two">"Hania Crete Greece"</string>
+    <string name="oldtown_address_three">"Hania Crete Greece"</string>
+    <string name="oldtown_address_four">"Hania Crete Greece"</string>
+    <string name="beach_address_one">"Kissamos Hania Greece"</string>
+    <string name="beach_address_two">"Hania Greece"</string>
+    <string name="beach_address_three">"Kasteli Hania"</string>
+    <string name="beach_address_four">"-"</string>
+    <string name="hours">Hours</string>
+    <string name="hania_hours_one">-</string>
+    <string name="hania_hours_two">"The Naval Museum is open daily from 9 am to 4 pm during the season (from 1 April to 31 October) and from 9 am to 2 pm during the other times."</string>
+    <string name="hania_hours_three">"Shops Hours"</string>
+    <string name="hania_hours_four">"24 hours"</string>
+    <string name="village_hours_one">"Office Hours"</string>
+    <string name="village_hours_two">"Office Hours"</string>
+    <string name="village_hours_three">"Office Hours"</string>
+    <string name="village_hours_four">"Office Hours"</string>
+    <string name="sights_hours_one">"Office Hours"</string>
+    <string name="sights_hours_two">"May until Octomber"</string>
+    <string name="sights_hours_three">"All Day Open"</string>
+    <string name="sights_hours_four">"All Day Open"</string>
+    <string name="oldtown_hours_one">"Office Hours"</string>
+    <string name="oldtown_hours_two">"24hours"</string>
+    <string name="oldtown_hours_three">"24hours"</string>
+    <string name="oldtown_hours_four">"24hours"</string>
+    <string name="beach_hours_one">"All Days"</string>
+    <string name="beach_hours_two">"24 Hours"</string>
+    <string name="beach_hours_three">"24 Hours"</string>
+    <string name="beach_hours_four">"All day"</string>
+    <string name="tel">Tel</string>
+    <string name="hania_tel_one">"+30 2822340200"</string>
+    <string name="hania_tel_two">-</string>
+    <string name="hania_tel_three">-</string>
+    <string name="hania_tel_four">-</string>
+    <string name="village_tel_one">"+30 2821 3 40000"</string>
+    <string name="village_tel_two">"+30 2823340300"</string>
+    <string name="village_tel_three">"+30 2822340200"</string>
+    <string name="village_tel_four">"+30 2821340000"</string>
+    <string name="sights_tel_one">"+30 2821 3 40000"</string>
+    <string name="sights_tel_two">"+30 28210 67179"</string>
+    <string name="sights_tel_three">"+30 28210340000"</string>
+    <string name="sights_tel_four">"+30 2822340200"</string>
+    <string name="oldtown_tel_one">-</string>
+    <string name="oldtown_tel_two">-</string>
+    <string name="oldtown_tel_three">-</string>
+    <string name="oldtown_tel_four">-</string>
+    <string name="beach_tel_one">-</string>
+    <string name="beach_tel_two">-</string>
+    <string name="beach_tel_three">"+30 2822340200"</string>
+    <string name="beach_tel_four">"+30 2822340200"</string>
+    <string name="site">Site</string>
+    <string name="hania_site_one">-</string>
+    <string name="hania_site_two">"https://cretetip.com/naval-museum/"</string>
+    <string name="hania_site_three">"http://www.chaniamarket.com"</string>
+    <string name="hania_site_four">"http://www.explorecrete.com/chania/EN-chania-12-venizelos-tombs.html"</string>
+    <string name="village_site_one">"www.platanias.gr"</string>
+    <string name="village_site_two">"http://www.kantanouselinou.gr"</string>
+    <string name="village_site_three">"www.kissamos.gr"</string>
+    <string name="village_site_four">"www.platanias.gr"</string>
+    <string name="sights_site_one">"http://www.maleme.info"</string>
+    <string name="sights_site_two">"https://www.west-crete.com/samaria-gorge.htm"</string>
+    <string name="sights_site_three">"https://en.wikipedia.org/wiki/Olive_tree_of_Vouves"</string>
+    <string name="sights_site_four">"https://www.cretanbeaches.com/en/sea-tourism/west-crete-beaches/gramvousa-islet-beach"</string>
+    <string name="oldtown_site_one">"www.greeka.com"</string>
+    <string name="oldtown_site_two">"www.chania.gr"</string>
+    <string name="oldtown_site_three">"https://en.wikipedia.org/wiki/Chania#The_old_town"</string>
+    <string name="oldtown_site_four">"www.gtp.gr"</string>
+    <string name="beach_site_one">"www.cretanbeaches.com"</string>
+    <string name="beach_site_two">"-"</string>
+    <string name="beach_site_three">"http://visitfalassarna.com"</string>
+    <string name="beach_site_four">"-"</string>
+
+    <string name="todo">TODO</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
